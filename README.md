@@ -1,1 +1,1 @@
-# WeddingWise---Event-Management-App-Backend
+# WeddingWise-Event-Management-App-Backend
